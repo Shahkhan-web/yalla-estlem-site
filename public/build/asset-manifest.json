@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60e50a15.css",
+    "main.js": "/static/js/main.8a73299c.js",
+    "static/media/hero-pic.png": "/static/media/hero-pic.13dcde53668a3167bc0c.png",
+    "static/media/integrated-delivery.png": "/static/media/integrated-delivery.1fe8ae003132111e7cce.png",
+    "static/media/Hardees.png": "/static/media/Hardees.40fceb8bee0f4094a3b0.png",
+    "static/media/Maroosh.png": "/static/media/Maroosh.5e1a5cef25021ca8bf26.png",
+    "static/media/Zaroob.png": "/static/media/Zaroob.8c68a1860abfd969bb73.png",
+    "static/media/Doubled-s.png": "/static/media/Doubled-s.d2499dabb562e7b447bd.png",
+    "static/media/Doner.png": "/static/media/Doner.1e8b0cd5722ed94f19f5.png",
+    "static/media/fetchr.png": "/static/media/fetchr.7e6c52bdce4f9c54ca7f.png",
+    "static/media/pizzahut.png": "/static/media/pizzahut.df1050f8c011c11d40f7.png",
+    "static/media/yalla-wide.png": "/static/media/yalla-wide.9f1ff510004de2017f61.png",
+    "static/media/KFC.png": "/static/media/KFC.2c965e6f738ec65ff16d.png",
+    "static/media/restaurant.png": "/static/media/restaurant.6ffb8a02218dc9fa5e07.png",
+    "static/media/same-day.png": "/static/media/same-day.690cb91cb6c1b1ef6f99.png",
+    "static/media/Binsina.png": "/static/media/Binsina.36185c7b37604412b2de.png",
+    "static/media/shipa.png": "/static/media/shipa.5a5ef3b85a5c9bf2ea81.png",
+    "static/media/carry.png": "/static/media/carry.e7a444ad9cd9cc0d203f.png",
+    "static/media/customized-delivery.png": "/static/media/customized-delivery.b11c2d1afde64b9db4c9.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.60e50a15.css.map": "/static/css/main.60e50a15.css.map",
+    "main.8a73299c.js.map": "/static/js/main.8a73299c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e50a15.css",
+    "static/js/main.8a73299c.js"
+  ]
+}
